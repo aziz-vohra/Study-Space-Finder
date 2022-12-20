@@ -1,5 +1,3 @@
-
-
 ## Project Title: Study Space Finder
 
 ### Introduction:
